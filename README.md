@@ -2,6 +2,7 @@
 My Klipper setting/configs as I constantly change/upgrade my Ender 3 V2.
 
 2024-Apr-29  
+  
 Printer: Ender 3 V2  
 Main Board: BTT SKR Mini E3 V3.0  
 Extruder: Creality Sprite PRO  
