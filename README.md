@@ -1,4 +1,4 @@
-# End3rV2-Klipper-Config
+# End3rV2-Klipper
 My Klipper setting/configs as I constantly change/upgrade my Ender 3 V2.
 
 2024-Apr-29  
