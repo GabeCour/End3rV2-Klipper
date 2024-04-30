@@ -15,7 +15,8 @@ Other upgrades:
 - X-axis linear rail (Doesn't do much) 
 
 2024-Apr-29  
-- Created "Archive" folder
+- Created "Archive" folder  
+*** Archived V1 ***  
 - New config  
     -  Adjusted ROTATION_DISTANCE
     -  Added macros
@@ -27,3 +28,7 @@ Other upgrades:
         - PID_BED
 - Added general macros from https://github.com/minimal3dp/klipper/tree/main/ender3v2-skr-mini-e3-v3  
      - These have been commented out for the time being  
+
+*** Archived V2 ***  
+- I screwed up the END_PRINT macro and it was in absolute coordinates set to moved to Z10 after print... It hurt to watch
+- I corrected this, added a homing step, and then brought the bed to the front  
