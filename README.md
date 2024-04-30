@@ -32,3 +32,8 @@ Other upgrades:
 *** Archived V2 ***  
 - I screwed up the END_PRINT macro and it was in absolute coordinates set to moved to Z10 after print... It hurt to watch
 - I corrected this, added a homing step, and then brought the bed to the front  
+
+TO-DO:  
+ - Tuning with Ellis' tuning guide https://ellis3dp.com/Print-Tuning-Guide/
+ - Figure out why START_PRINT "default" temp is used and not the slicer
+ - Figure out how to add "if" statements to END_PRINT to prevent a 10mm Z move from hitting the Z limit after a tall print
