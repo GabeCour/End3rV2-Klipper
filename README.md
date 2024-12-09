@@ -17,9 +17,9 @@ TO-DO:
  - Figure out how to add "if" statements to END_PRINT to prevent a 10mm Z move from hitting the Z limit after a tall print
  - Add LED light controlled by GPIO pins
 
-Timeline of changes:
-2024-Apr-29 - V2, V3
-2024-Dec-08 - V4
+Timeline of changes:  
+2024-Apr-29 - V2, V3  
+2024-Dec-08 - V4  
 
 ########## 2024-Apr-29 ##########
  - Created "Archive" folder  
